@@ -1,6 +1,9 @@
 # spring-data-mongodb
 
-Tutoriel d'apprentissage pour connecter MongoDB à un projet Spring Boot.
+ <img src="./src/main/resources/static/logo-spring.svg" width="300">
 
-Contenu proposé par Amigoscode
+Tutoriel d'apprentissage :
+> Connecter MongoDB à un projet Spring Boot
+
+Contenu proposé par Amigoscode : https://amigoscode.com
 
